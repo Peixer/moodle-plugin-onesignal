@@ -1,0 +1,9 @@
+{
+  "moodle-message_onesignal-toolboxes": {
+    "requires": [
+        "base",
+        "node",
+        "io"
+    ]
+  }
+}
